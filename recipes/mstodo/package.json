@@ -1,8 +1,8 @@
 {
   "id": "mstodo",
-  "name": "Microsoft To-do",
+  "name": "Microsoft To Do",
   "version": "1.0.0",
-  "description": "Microsoft To-do",
+  "description": "Microsoft To Do",
   "main": "index.js",
   "author": "Yoga Setiawan <ariokidev@gmail.com>",
   "license": "MIT",
